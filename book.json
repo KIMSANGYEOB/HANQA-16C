@@ -1,0 +1,23 @@
+{
+    "gitbook": "3.2.3",
+    "title": "한큐에 자바 16기 매뉴얼",
+    "description": "한큐에 자바 16기 도움말",
+    "structure": {
+      "summary": "SUMMARY.md"
+    },
+    "plugins": [
+      "prism@2.0.0",
+      "-highlight",
+      "advanced-emoji",
+      "codeblock-disable-glossary",
+      "collapsible-chapters",
+      "anchors"
+    ],
+    "search": {
+      "maxIndexSize": 1000000000
+    },
+    "pluginsConfig": {
+      "collapsible-chapters":{}
+    }
+  }
+  

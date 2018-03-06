@@ -1,3 +1,5 @@
-# My Awesome Book
+# HANQ-A JAVA
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+본 매뉴얼은 한큐에 자바 16기 초급반 내용 정리 매뉴얼입니다!
+
+Made By : **김상엽**
