@@ -2,8 +2,8 @@
 
 > GIT 과 SVN 사용법에 대해 알아봅시다.
 
-- [GIT](#GIT)
-- [SVN](#SVN)
+- [GIT](#git)
+- [SVN](#svn)
   - [SVN 방 연결하기](#svn-방-연결하기)
   - [프로젝트 SVN에 올리기](#프로젝트-svn에-올리기)
 
@@ -29,4 +29,7 @@
 1. Team -> Share Project 클릭  
 ![](/images/2주차/svnshare.png)  
 1. SVN 선택 -> Next > 클릭  
-![](/images/2주차/shareproject.png)
+![](/images/2주차/shareproject.png)  
+1. Use existing repository location 선택 후 자신이 올릴 SVN방 선택하여 `Finish` 클릭  
+(원하는 SVN방이 없다면 [SVN 방 연결하기](#svn-방-연결하기) 처럼 진행)
+![](/images/2주차/SVN올리기끝.png)
