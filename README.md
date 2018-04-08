@@ -1,3 +1,6 @@
-# My Awesome Book
+# \#델파이 교육정리 관련 책정리
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+델파이 정리용 
+
+
+
