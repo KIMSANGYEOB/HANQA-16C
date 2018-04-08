@@ -7,6 +7,7 @@
   - [SVN 방 연결하기](#svn-방-연결하기)
   - [SVN 방 연결 해제하기](#svn-방-연결-해제하기)
   - [프로젝트 SVN에 올리기](#프로젝트-svn에-올리기)
+  - [프로젝트 commit, update 하기](#프로젝트-commit-update-하기)
 
 ## GIT
 
@@ -44,3 +45,7 @@
 ![](/images/2주차/SVN올리기끝.png)  
 1. **Comment**영역에 해당 프로젝트에 대한 코멘트 입력 후 `OK` 클릭  
 ![](/images/2주차/SVN코멘트.png)
+
+### 프로젝트 commit, update 하기
+
+1. SVN 연결된 프로젝트 네비게이터 탭에서 우클릭
